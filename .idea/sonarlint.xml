@@ -4,5 +4,9 @@
     <option name="bindingEnabled" value="true" />
     <option name="projectKey" value="fairy17_JenkinsGradleDemo" />
     <option name="serverId" value="mm" />
+<option name="login" value="14ea9ca067620dd0ee74e59db87a08835c7cb7b5"/>
+    <option name="url" value="https://sonarcloud.io"/>
+    <option name="organization" value="fairy17-github"/>
+
   </component>
 </project>
